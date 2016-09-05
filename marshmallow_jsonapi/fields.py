@@ -30,7 +30,7 @@ class BaseRelationship(Field):
 
 def _stringify(value):
     if value is not None:
-        return str(value)
+        return unicode(value)
     return value
 
 

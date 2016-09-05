@@ -2,6 +2,8 @@
 marshmallow-jsonapi
 *******************
 
+Forked to deal with unicode in _stringify
+
 .. image:: https://badge.fury.io/py/marshmallow-jsonapi.svg
     :target: http://badge.fury.io/py/marshmallow-jsonapi
     :alt: Latest version
